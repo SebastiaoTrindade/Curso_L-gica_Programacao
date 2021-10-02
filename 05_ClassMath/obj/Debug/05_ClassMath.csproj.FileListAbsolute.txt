@@ -1,0 +1,6 @@
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\05_ClassMath\bin\Debug\05_ClassMath.exe.config
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\05_ClassMath\bin\Debug\05_ClassMath.exe
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\05_ClassMath\bin\Debug\05_ClassMath.pdb
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\05_ClassMath\obj\Debug\05_ClassMath.csproj.CoreCompileInputs.cache
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\05_ClassMath\obj\Debug\05_ClassMath.exe
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\05_ClassMath\obj\Debug\05_ClassMath.pdb

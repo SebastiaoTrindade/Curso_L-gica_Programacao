@@ -1,0 +1,7 @@
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\07_Boolean\bin\Debug\07_Boolean.exe.config
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\07_Boolean\bin\Debug\07_Boolean.exe
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\07_Boolean\bin\Debug\07_Boolean.pdb
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\07_Boolean\obj\Debug\07_Boolean.csprojAssemblyReference.cache
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\07_Boolean\obj\Debug\07_Boolean.csproj.CoreCompileInputs.cache
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\07_Boolean\obj\Debug\07_Boolean.exe
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\07_Boolean\obj\Debug\07_Boolean.pdb

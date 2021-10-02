@@ -1,0 +1,6 @@
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\11_For_Foreach\bin\Debug\11_For_Foreach.exe.config
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\11_For_Foreach\bin\Debug\11_For_Foreach.exe
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\11_For_Foreach\bin\Debug\11_For_Foreach.pdb
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\11_For_Foreach\obj\Debug\11_For_Foreach.csproj.CoreCompileInputs.cache
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\11_For_Foreach\obj\Debug\11_For_Foreach.exe
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\11_For_Foreach\obj\Debug\11_For_Foreach.pdb

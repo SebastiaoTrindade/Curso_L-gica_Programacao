@@ -1,0 +1,7 @@
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\03_Entrada_Dados\bin\Debug\03_Entrada_Dados.exe.config
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\03_Entrada_Dados\bin\Debug\03_Entrada_Dados.exe
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\03_Entrada_Dados\bin\Debug\03_Entrada_Dados.pdb
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\03_Entrada_Dados\obj\Debug\03_Entrada_Dados.csprojAssemblyReference.cache
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\03_Entrada_Dados\obj\Debug\03_Entrada_Dados.csproj.CoreCompileInputs.cache
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\03_Entrada_Dados\obj\Debug\03_Entrada_Dados.exe
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\03_Entrada_Dados\obj\Debug\03_Entrada_Dados.pdb

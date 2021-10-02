@@ -1,0 +1,7 @@
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\06_Strings\bin\Debug\06_Strings.exe.config
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\06_Strings\bin\Debug\06_Strings.exe
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\06_Strings\bin\Debug\06_Strings.pdb
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\06_Strings\obj\Debug\06_Strings.csprojAssemblyReference.cache
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\06_Strings\obj\Debug\06_Strings.csproj.CoreCompileInputs.cache
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\06_Strings\obj\Debug\06_Strings.exe
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\06_Strings\obj\Debug\06_Strings.pdb

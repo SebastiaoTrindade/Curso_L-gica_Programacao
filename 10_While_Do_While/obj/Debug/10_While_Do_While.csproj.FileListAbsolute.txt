@@ -1,0 +1,7 @@
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\10_While_Do_While\bin\Debug\10_While_Do_While.exe.config
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\10_While_Do_While\bin\Debug\10_While_Do_While.exe
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\10_While_Do_While\bin\Debug\10_While_Do_While.pdb
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\10_While_Do_While\obj\Debug\10_While_Do_While.csprojAssemblyReference.cache
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\10_While_Do_While\obj\Debug\10_While_Do_While.csproj.CoreCompileInputs.cache
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\10_While_Do_While\obj\Debug\10_While_Do_While.exe
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\10_While_Do_While\obj\Debug\10_While_Do_While.pdb

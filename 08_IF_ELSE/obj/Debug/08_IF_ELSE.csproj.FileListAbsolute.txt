@@ -1,0 +1,7 @@
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\08_IF_ELSE\bin\Debug\08_IF_ELSE.exe.config
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\08_IF_ELSE\bin\Debug\08_IF_ELSE.exe
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\08_IF_ELSE\bin\Debug\08_IF_ELSE.pdb
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\08_IF_ELSE\obj\Debug\08_IF_ELSE.csprojAssemblyReference.cache
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\08_IF_ELSE\obj\Debug\08_IF_ELSE.csproj.CoreCompileInputs.cache
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\08_IF_ELSE\obj\Debug\08_IF_ELSE.exe
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\08_IF_ELSE\obj\Debug\08_IF_ELSE.pdb

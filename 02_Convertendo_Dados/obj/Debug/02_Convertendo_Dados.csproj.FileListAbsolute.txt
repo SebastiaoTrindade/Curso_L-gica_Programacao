@@ -1,0 +1,7 @@
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\02_Convertendo_Dados\bin\Debug\02_Convertendo_Dados.exe.config
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\02_Convertendo_Dados\bin\Debug\02_Convertendo_Dados.exe
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\02_Convertendo_Dados\bin\Debug\02_Convertendo_Dados.pdb
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\02_Convertendo_Dados\obj\Debug\02_Convertendo_Dados.csprojAssemblyReference.cache
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\02_Convertendo_Dados\obj\Debug\02_Convertendo_Dados.csproj.CoreCompileInputs.cache
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\02_Convertendo_Dados\obj\Debug\02_Convertendo_Dados.exe
+C:\Users\SEBASTIAO & SHEILA\Documents\Visual Studio 2017\Projects\Curso_Lógica_Programacao\02_Convertendo_Dados\obj\Debug\02_Convertendo_Dados.pdb
